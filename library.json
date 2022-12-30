@@ -1,0 +1,31 @@
+{
+  "name": "nahs-Bricks-Lib-SHT4x",
+  "version": "1.0.0",
+  "description": "Interfaceing functions for SHT4x Humidity/Temperature Sensor",
+  "keywords": "NAHS-Bricks, interface, sensor, humidity, temperature, SHT40, SHT41, SHT45",
+  "repository":
+  {
+    "type": "git",
+    "url": "git@github.com:NAHS-Bricks/Lib-SHT4x.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Nils Ost",
+      "email": "home@nijos.de",
+      "url": "https://nijos.de",
+      "maintainer": true
+    }
+  ],
+  "exclude": [
+    ".gitignore"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://bricks.nijos.de/",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*",
+  "examples": "examples/*/*.ino"
+}
+
